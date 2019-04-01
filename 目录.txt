@@ -1,5 +1,3 @@
-HTML入门教程上
-目录：
 1.尚硅谷_HTML&CSS基础_课程简介
 2.尚硅谷_HTML&CSS基础_学习内容简介
 3.尚硅谷_HTML&CSS基础_HTML简介
